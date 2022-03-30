@@ -29,4 +29,5 @@ resnet50: 86.54%
 densenet121: 89.74%  
 ![image](https://github.com/poyuwang/Lab1_Chest_Xray/blob/main/image/git5.PNG)
 
-![image]()
+## model code
+See train.py
