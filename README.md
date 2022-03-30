@@ -22,7 +22,7 @@ densenet121
 
 ![image](https://github.com/poyuwang/Lab1_Chest_Xray/blob/main/image/densenet121.PNG)
 
-### best testing acuracy
+### Best testing acuracy
 resnet50: 86.54%  
 ![image](https://github.com/poyuwang/Lab1_Chest_Xray/blob/main/image/resnet50accuracy.PNG)
 
