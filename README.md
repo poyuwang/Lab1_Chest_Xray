@@ -10,7 +10,7 @@ training_filenames_normal: 1341
 training_filenames_pneumonia: 3875  
 test_filenames_normal: 234  
 test_filenames_pneumonia: 390  
-![image]()
+![image](https://github.com/poyuwang/Lab1_Chest_Xray/blob/main/image/git1.PNG)
 
 
 ## Using model
