@@ -15,10 +15,13 @@ test_filenames_pneumonia: 390
 
 ## Using model
 resnet50
+![image](https://github.com/poyuwang/Lab1_Chest_Xray/blob/main/image/git2.PNG)
 
 densenet121
+![image](https://github.com/poyuwang/Lab1_Chest_Xray/blob/main/image/git3.PNG)
 
 ### best testing acuracy
 resnet50: 86.54%
 densenet121: 
 
+![image]()
